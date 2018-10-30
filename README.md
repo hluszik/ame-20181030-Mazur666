@@ -13,10 +13,12 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
 
   Erstellen Sie ein Programm, welches "Hello World!" ausgibt und deren main Funktion wie folgt aussieht:
 
-  int main(int argc, char ** argv) {
-    myHello();
-    return 0;
-  }
+  ```C
+    int main(int argc, char ** argv) {
+      myHello();
+      return 0;
+    }
+  ```
 
   Tip: Sie muessen eine Funktion erstellen!
 
@@ -28,11 +30,13 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
 
   Erstellen Sie ein Programm, welches eine Zahl einliest und das Quadrat der Zahl ausgibt und deren main Funktion wie folgt aussieht:
 
+  ```C
   int main(int argc, char ** argv) {
     double myNumber = myReadNumber();
     myNumber = mySquare(myNumber);
     myPrintNumber(myNumber);
   }
+  ```
 
 * Aufgabe 3.1:
 
@@ -40,9 +44,9 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
 
   Die Fibonacci-Folge ist wie folgt definiert:
 
-  f_1 = f_2 = 1
+  f<sub>1</sub> = f<sub>2</sub> = 1
   
-  f_n = f_(n-1) + f_(n-2) fuer n > 2
+  f<sub>n</sub> = f<sub>n-1</sub> + f<sub>n-2</sub> fuer n > 2
 
 * Aufgabe 3.2:
 
