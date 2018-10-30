@@ -1,7 +1,7 @@
 
-#Ueberpruefung Doppelstunde
+# Ueberpruefung Doppelstunde
 
-##Einzelarbeit:
+## Einzelarbeit:
 
 Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer Aufgabennummer.teillnummer steht.
 
