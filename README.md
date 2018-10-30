@@ -3,7 +3,7 @@
 
 ## Einzelarbeit:
 
-Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer Aufgabennummer.teillnummer steht.
+Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer Aufgabennummer.Teilaufgabennummer steht.
 
 * Aufgabe 1.1: (Dateiname aufgabe_1.1.c)
   
@@ -40,7 +40,7 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
 
 * Aufgabe 3.1:
 
-  Erstellen Sie ein Programm, welches die Fibonacci-Folge bist n=10 ausgibt.
+  Erstellen Sie ein Programm, welches die Fibonacci-Folge bis n=10 ausgibt.
 
   Die Fibonacci-Folge ist wie folgt definiert:
 
