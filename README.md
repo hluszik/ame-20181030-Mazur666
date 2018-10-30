@@ -1,7 +1,7 @@
 
-Ueberpruefung Doppelstunde
+#Ueberpruefung Doppelstunde
 
-Einzelarbeit:
+##Einzelarbeit:
 
 Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer Aufgabennummer.teillnummer steht.
 
@@ -41,6 +41,7 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
   Die Fibonacci-Folge ist wie folgt definiert:
 
   f_1 = f_2 = 1
+  
   f_n = f_(n-1) + f_(n-2) fuer n > 2
 
 * Aufgabe 3.2:
