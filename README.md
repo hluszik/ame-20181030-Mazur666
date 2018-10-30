@@ -36,12 +36,12 @@ Fuer jede Teilaufgabe ist eine Datei aufgabe_x.x.c zu erstellen, wobei x.x fuer 
 
 * Aufgabe 3.1:
 
-  Erstellen Sie ein Programm, welches die Fibonacci-Folge bist n=100 ausgibt.
+  Erstellen Sie ein Programm, welches die Fibonacci-Folge bist n=10 ausgibt.
 
   Die Fibonacci-Folge ist wie folgt definiert:
 
   f_1 = f_2 = 1
-  f_n = f_(n-1) + f_(n_2) fuer n > 2
+  f_n = f_(n-1) + f_(n-2) fuer n > 2
 
 * Aufgabe 3.2:
 
